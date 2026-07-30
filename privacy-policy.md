@@ -220,5 +220,4 @@ Aryan Mehta
 New Delhi, India
 **spacevibely@gmail.com**
 
-A postal address is available on request, and is published on our Google Play store
-listing.
+A postal address is available on request.
