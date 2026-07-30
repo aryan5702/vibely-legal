@@ -1,3 +1,9 @@
+# Project site, so pages live under /vibely-legal/, not the domain root. Every
+# internal link must go through the relative_url filter or it 404s. Moving to a
+# custom domain later means setting baseurl to "" and re-running publish.sh.
+url: "https://aryan5702.github.io"
+baseurl: "/vibely-legal"
+
 title: Vibely Legal
 description: Privacy policy, terms of service, and account deletion for the Vibely mobile app.
 

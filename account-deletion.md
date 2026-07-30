@@ -55,7 +55,7 @@ Deleted permanently:
 - **Copies already delivered to others.** Messages you sent that other users have already
   received are not retrievable from their devices.
 
-Everything retained is covered by the [Privacy Policy](/privacy-policy/).
+Everything retained is covered by the [Privacy Policy]({{ '/privacy-policy/' | relative_url }}).
 
 ---
 

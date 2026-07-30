@@ -117,7 +117,7 @@ or offline, or for anything that happens at an event.
 
 ## 7. Privacy
 
-Our handling of personal data is described in the [Privacy Policy](/privacy-policy/),
+Our handling of personal data is described in the [Privacy Policy]({{ '/privacy-policy/' | relative_url }}),
 which forms part of these Terms.
 
 ---

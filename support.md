@@ -19,7 +19,7 @@ choose **Report**, and pick a reason. You can block the user at the same time fr
 screen.
 
 **We review every report and act on objectionable content within 24 hours**, removing content
-and removing the user where warranted. See the [Terms of Service](/terms-of-service/) §4.
+and removing the user where warranted. See the [Terms of Service]({{ '/terms-of-service/' | relative_url }}) §4.
 
 If you believe someone is in immediate danger, contact your local emergency services first.
 
@@ -54,12 +54,12 @@ prefer to leave it off.
 **How do I delete my account?**
 Profile → **Delete account**. It is permanent, not a deactivation. Full details, including how
 to request deletion if you have already uninstalled, are on the
-[Delete Your Account](/account-deletion/) page.
+[Delete Your Account]({{ '/account-deletion/' | relative_url }}) page.
 
 **Who can see my details?**
 Other users see your name or username and whatever profile details you chose to fill in, plus
 events you host and messages you send in group chats. Your email address is never shown to
-other users. See the [Privacy Policy](/privacy-policy/).
+other users. See the [Privacy Policy]({{ '/privacy-policy/' | relative_url }}).
 
 **Do I need to be 18?**
 Yes. Vibely is for users aged 18 and over.
