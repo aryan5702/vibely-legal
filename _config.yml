@@ -1,0 +1,16 @@
+title: Vibely Legal
+description: Privacy policy, terms of service, and account deletion for the Vibely mobile app.
+
+# No theme gem: _layouts/default.html is self-contained, so there is nothing to
+# resolve at build time and nothing that can break when a theme is updated.
+plugins: []
+
+# kramdown is the only Markdown engine GitHub Pages supports.
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+exclude:
+  - README.md
+  - publish.sh
