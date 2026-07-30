@@ -69,6 +69,10 @@ you and to set the location of an event you are hosting.
   not used to track you across apps.
 - Standard server-side request data (IP address, timestamps) logged by our backend for
   security and abuse prevention.
+- **Crash reports**, via Firebase Crashlytics. When the app crashes we receive a stack trace
+  plus basic device and OS details, so we can find and fix the fault. Crash reporting is
+  disabled in development builds and is not used to measure your behaviour — there is no
+  analytics SDK in the app.
 
 ### 1.5 What we do **not** collect
 
@@ -125,6 +129,7 @@ We use a small number of processors. We do not sell data to anyone.
 | **Google — Sign-In / Identity** | Authentication assertion | Signing you in |
 | **Google — Maps & Places SDK** | Map interactions and place queries | Rendering maps, place search |
 | **Apple — Sign in with Apple** | Authentication assertion | Signing you in |
+| **Google — Firebase Crashlytics** | Crash stack traces, device and OS details | Diagnosing and fixing crashes |
 | Our hosting provider | Data stored by the backend at `api.vibelyspace.com` | Running the service |
 
 Google's and Apple's own privacy policies govern their handling of that data.

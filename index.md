@@ -14,6 +14,7 @@ that govern it.
 | [Privacy Policy](/privacy-policy/) | What the app collects, why, who it goes to, and how to get rid of it |
 | [Terms of Service](/terms-of-service/) | The agreement you accept by using Vibely, including our content and safety rules |
 | [Delete Your Account](/account-deletion/) | How to delete your account and data, in the app or by email |
+| [Support](/support/) | Contact, reporting, safety guidance, and common questions |
 
 **Effective 30 July 2026.**
 
