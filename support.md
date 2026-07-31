@@ -108,6 +108,7 @@ to your supervisory authority or Attorney General — are in the
 
 - [Privacy Policy]({{ '/privacy-policy/' | relative_url }})
 - [Terms of Service]({{ '/terms-of-service/' | relative_url }})
+- [Delete Your Data]({{ '/delete-data/' | relative_url }}) — remove specific data, keep your account
 - [Delete Your Account]({{ '/account-deletion/' | relative_url }})
 
 ---

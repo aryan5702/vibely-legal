@@ -12,6 +12,9 @@ permalink: /account-deletion/
 This page explains how to delete your Vibely account and what happens to your data. It is
 published so you can request deletion **without needing the app installed**.
 
+> Only want to remove *some* of your data and keep your account? See
+> [Delete Your Data]({{ '/delete-data/' | relative_url }}) instead.
+
 ---
 
 ## Option 1 — Delete from inside the app (fastest)

@@ -263,6 +263,9 @@ You can, at any time:
   is a real deletion request to our backend, not a deactivation. See
   [Delete Your Account]({{ '/account-deletion/' | relative_url }}) for the web-accessible instructions and for
   requesting deletion by email if you no longer have the app installed.
+- **Delete part of your data and keep your account.** Most of it you can remove yourself in
+  the app — cancel an event, leave one, remove a friend, clear a profile field. For anything
+  else, ask us. See [Delete Your Data]({{ '/delete-data/' | relative_url }}).
 - **Access, correct, complete, or update** your data — edit your profile in the app, or write
   to `spacevibely@gmail.com`.
 - **Get a copy of your data (portability)** — ask us and we will send it in a structured,
