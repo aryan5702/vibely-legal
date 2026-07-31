@@ -6,14 +6,19 @@ permalink: /terms-of-service/
 
 # Terms of Service — Vibely
 
-**Effective date:** 30 July 2026
+- **Effective date:** 30 July 2026
+- **Last updated:** 31 July 2026
 
 These Terms are a binding agreement between you and Aryan Mehta, an individual operating as
 "Vibely Space" and based in New Delhi, India ("Vibely", "we", "us"), governing your use of
-the Vibely mobile app and related services.
+the Vibely mobile app and related services. They are the end-user licence agreement for the
+app.
 
-**By creating an account or using Vibely, you accept these Terms.** If you do not accept
-them, do not use the app.
+**The sign-in screen tells you that continuing means accepting these Terms and the Privacy
+Policy, and links to both. By signing in or otherwise using Vibely, you accept them.** If you
+do not accept them, do not use the app.
+
+Both documents are reachable at any time from **Profile → Legal & support** inside the app.
 
 Contact: **spacevibely@gmail.com**
 
@@ -115,14 +120,37 @@ or offline, or for anything that happens at an event.
 
 ---
 
-## 7. Privacy
+## 7. Copyright and takedowns
+
+If you believe content on Vibely infringes your copyright, email **spacevibely@gmail.com**
+with "Copyright complaint" in the subject line and include:
+
+1. your name and contact details;
+2. identification of the work you say has been infringed;
+3. identification of the content on Vibely you want removed, and enough detail for us to find
+   it — the event, the group chat, or the profile;
+4. a statement that you believe in good faith that the use is not authorised by the copyright
+   owner, its agent, or the law;
+5. a statement that the information in your notice is accurate and that you are the copyright
+   owner or authorised to act for them;
+6. your signature, electronic or physical.
+
+We remove infringing content promptly, and we terminate the accounts of repeat infringers. If
+your content was removed and you believe that was a mistake, send a counter-notice to the same
+address with the same details and an explanation.
+
+The same address handles trademark complaints and other intellectual-property claims.
+
+---
+
+## 8. Privacy
 
 Our handling of personal data is described in the [Privacy Policy]({{ '/privacy-policy/' | relative_url }}),
 which forms part of these Terms.
 
 ---
 
-## 8. Service availability and changes
+## 9. Service availability and changes
 
 We may modify, suspend, or discontinue any part of Vibely at any time. We aim to give notice
 of material changes but do not guarantee uninterrupted availability. The service is provided
@@ -130,17 +158,26 @@ free of charge; no service level is promised.
 
 ---
 
-## 9. Termination
+## 10. Termination
 
 You may stop using Vibely and delete your account at any time.
 
 We may suspend or terminate your account, with or without notice, if you breach these Terms,
-if your conduct risks harm to other users or to us, or if required by law. Sections 5, 6,
-10, 11, and 12 survive termination.
+if your conduct risks harm to other users or to us, or if required by law. Sections 5, 6, 7,
+11, 12, and 13 survive termination.
+
+**If you do not comply with these Terms, our Acceptable Use rules (§3), or the
+[Privacy Policy]({{ '/privacy-policy/' | relative_url }}), we have the right to remove your content and end your
+access to Vibely.** We will remind you of this at least once a year, as Rule 3(1)(f) of India's
+IT Rules 2021 requires, and it applies to every user wherever they are.
+
+Users in India can raise a complaint about any such decision with our **Grievance Officer** —
+named, with response times, in the [Privacy Policy]({{ '/privacy-policy/' | relative_url }}) §14.2. Everyone can
+appeal to the same address (§4).
 
 ---
 
-## 10. Disclaimers
+## 11. Disclaimers
 
 To the fullest extent permitted by law, Vibely is provided **"as is" and "as available"**,
 without warranties of any kind, express or implied, including merchantability, fitness for a
@@ -149,7 +186,7 @@ uninterrupted, secure, or error-free, or that any event listed will take place a
 
 ---
 
-## 11. Limitation of liability
+## 12. Limitation of liability
 
 To the fullest extent permitted by law, we are not liable for indirect, incidental, special,
 consequential, exemplary, or punitive damages, or for loss of profits, data, goodwill, or
@@ -164,7 +201,7 @@ death or personal injury caused by our negligence, or for fraud.
 
 ---
 
-## 12. Indemnity
+## 13. Indemnity
 
 You agree to indemnify and hold harmless Aryan Mehta from
 claims, damages, and reasonable legal costs arising from your content, your use of the
@@ -172,7 +209,7 @@ service, your conduct at events, or your breach of these Terms.
 
 ---
 
-## 13. Apple and Google
+## 14. Apple and Google
 
 - These Terms are between you and Aryan Mehta only — **not** with Apple or Google.
 - Apple and Google are not responsible for the app or its content, and have no obligation to
@@ -184,22 +221,34 @@ service, your conduct at events, or your breach of these Terms.
 
 ---
 
-## 14. Changes to these Terms
+## 15. Changes to these Terms
 
 We may update these Terms. Material changes will be notified in the app or by email before
 they take effect. Continuing to use Vibely after that means you accept the revised Terms.
 
 ---
 
-## 15. Governing law
+## 16. Governing law
 
-These Terms are governed by the laws of New Delhi, India, and you agree to the exclusive
-jurisdiction of its courts, without prejudice to any mandatory consumer protections available
-to you where you live.
+These Terms are governed by the laws of India, and the courts of New Delhi have jurisdiction
+over any dispute.
+
+**This does not take away rights you have where you live.** If you are a consumer:
+
+- **In the EU/EEA**, you keep the mandatory protections of the law of your country of
+  residence, and you may bring proceedings in your local courts. You can also use the European
+  Commission's online dispute resolution platform at <https://ec.europa.eu/consumers/odr/>.
+- **In the UK**, you keep the mandatory protections of UK consumer law and may bring
+  proceedings in the UK courts.
+- **In the United States and elsewhere**, nothing here waives a right your state or national
+  consumer-protection law does not allow to be waived.
+
+Nothing in this section limits your ability to complain to a data-protection authority — the
+routes are in the [Privacy Policy]({{ '/privacy-policy/' | relative_url }}) §14.
 
 ---
 
-## 16. Contact
+## 17. Contact
 
 Aryan Mehta
 New Delhi, India
