@@ -39,9 +39,9 @@ information to confirm you own the account before acting.
 
 ## What gets deleted
 
-**Every field that identifies you is overwritten in our database and cannot be recovered:**
+**Your profile is overwritten in our database and cannot be recovered:**
 
-- your name, username, email address, phone number, date of birth, and gender;
+- your name, username, email address, date of birth, and gender;
 - your friends, friend requests, and block list;
 - your push notification (FCM) token, so notifications stop;
 - messages in any group chat **you created**, which are erased outright;
@@ -71,12 +71,25 @@ Specifically retained:
 - **Crash reports.** Crashlytics keeps crash data for **90 days**, then deletes it.
 - **Legal records.** Where law requires us to keep certain records, we keep them for the
   legally required period and nothing longer.
+- **The identifier you sign in with.** Our sign-in system keeps which provider you used (Google
+  or Apple), that provider's ID for you, and the email address on it. The security tokens for
+  that Google or Apple session are erased along with everything else.
+
+  We keep it to **enforce bans**. Otherwise, deleting your account before we acted on a report
+  would erase the record of it and the same person could sign straight back up with the same
+  email — making deletion a way to shed a ban, at the expense of the people it protects. It is
+  not used to contact you or to profile you. If you were never banned it is only ever matched
+  against, never acted on, and signing in again just gives you a **new, empty account**.
+
+  **It is erased outright 12 months after you close your account**, unless the account was
+  banned — then it is kept for as long as the ban stands.
+
+  Legal basis: legitimate interests (GDPR Art. 6(1)(f)); DPDP Act §8(7) for retention needed to
+  enforce legal rights. Object at spacevibely@gmail.com and we will weigh it and reply.
 - **Moderation and ban records.** If your account was banned, or was the subject of upheld
-  reports, we keep the minimum record needed to enforce that ban and prevent immediate
-  re-registration. That record is held against the account number, not against your name or
-  email address. Reports you filed about other people survive in a form that no longer
-  identifies you as the reporter, so that other users' safety is not undermined by your
-  departure.
+  reports, we keep the fact of the ban and its reason against the identifier above. Reports you
+  filed about other people survive in a form that no longer identifies you as the reporter, so
+  that other users' safety is not undermined by your departure.
 - **Copies already delivered to others.** Messages you sent that other people have already
   received are not retrievable from their devices.
 

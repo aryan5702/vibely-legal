@@ -7,7 +7,7 @@ permalink: /privacy-policy/
 # Privacy Policy — Vibely
 
 - **Effective date:** 30 July 2026
-- **Last updated:** 31 July 2026
+- **Last updated:** 1 August 2026
 
 Vibely ("Vibely", "we", "us") is operated by Aryan Mehta, an individual operating as
 "Vibely Space" and based in New Delhi, India, who is the **data controller** (EU/UK GDPR),
@@ -188,7 +188,7 @@ No system is perfectly secure, and we cannot guarantee absolute security.
 
 | Category | Retention |
 |---|---|
-| Profile — name, username, email, phone, date of birth, gender | Life of your account. **Overwritten when you delete it** — see §5.3. |
+| Profile — name, username, email, date of birth, gender | Life of your account. **Overwritten when you delete it** — see §5.3. |
 | Events you hosted, bookings, attendance | Cancelled and hidden when you delete your account. The records remain linked to the anonymised account id, not to you. |
 | Group chat messages | Messages in a group **you created** are erased outright. Messages you sent in **someone else's** group stay, so the conversation still makes sense to the people in it — but the sender resolves to "Deleted user", not to you. Copies already delivered to other people's devices are outside our control either way. |
 | Friends, friend requests, block list | Removed when you delete your account. |
@@ -199,7 +199,8 @@ No system is perfectly secure, and we cannot guarantee absolute security.
 | Crash reports (Crashlytics) | **90 days** — Google's default retention for crash data. |
 | Reports you filed about other users | Kept while needed for safety enforcement. Once your account is gone they no longer identify you as reporter. |
 | Reports filed **against** you | Kept as an abuse record. Free text and the copy of the reported content are stripped 90 days after the report is settled. |
-| Moderation and ban records | The minimum needed to enforce a ban and prevent immediate re-registration. Held as an account identifier, not as your name or email. |
+| Sign-in identifier (which provider you used, that provider's ID for you, and the email address on it) | **12 months** after you close your account, then erased outright — unless the account was banned, in which case it is kept for as long as the ban stands. This is the one identifying field that survives deletion — see §5.3. |
+| Moderation and ban records | The minimum needed to enforce a ban and prevent re-registration: the sign-in identifier above, plus the fact of the ban and its reason. |
 | Records we are legally required to keep | The legally required period, and nothing longer. |
 
 When a retention period ends, or when you withdraw consent and we have no other basis to
@@ -210,9 +211,9 @@ keep processing, the data is deleted or irreversibly anonymised.
 We are specific about this because "we delete everything" is usually not true, and we would
 rather tell you exactly where the line is.
 
-Your account is not simply hidden. When you delete it — or if we remove it — every field that
-identifies you is **overwritten in our database**: name, username, email address, phone number,
-date of birth, and gender. They are not recoverable, by us or by anyone else.
+Your account is not simply hidden. When you delete it — or if we remove it — your **profile** is
+**overwritten in our database**: name, username, email address, date of birth, and gender. Those
+copies are not recoverable, by us or by anyone else.
 
 What remains is an **anonymous account number** with no personal data attached to it. We keep
 it because other people's records point at it: a booking on someone else's event, a message in
@@ -221,7 +222,34 @@ corrupt or destroy those other people's data. Under the GDPR and the DPDP Act th
 your right to erasure — the requirement is that the data stop being attributable to an
 identifiable person, which it does.
 
-Two consequences worth stating plainly:
+**One identifying record deliberately survives, and we want to be straight about it.** Our
+sign-in system separately keeps the identifier you logged in with — which provider (Google or
+Apple), that provider's ID for you, and the email address on it. Everything else attached to it,
+including the security tokens for your Google or Apple session, is erased.
+
+We keep it for one purpose: **enforcing bans.** If we could not, then deleting your account
+before we acted on a report would erase the record of it, and the same person could sign
+straight back up with the same email. That would make deletion a way to shed a ban, at the
+expense of the people the ban protects. It is not used to contact you, to profile you, or for
+anything else, and it plays no part in a normal deletion — if you are never banned, it is only
+ever matched against and never acted on.
+
+**It does not last forever.** If you were never banned, it is erased outright **12 months**
+after you close your account — the point by which the risk of someone deleting their account to
+dodge a pending report has passed. Only a banned account's identifier is kept beyond that, and
+only for as long as the ban stands.
+
+Our legal basis is **legitimate interests** (GDPR Art. 6(1)(f)) in keeping the service safe;
+under India's DPDP Act we rely on §8(7), which allows retention where it is needed to enforce
+legal rights. The 12-month limit is how we keep that proportionate, as GDPR Art. 5(1)(e) storage
+limitation requires. You can object at `spacevibely@gmail.com` and we will weigh your objection
+against the safety interest and tell you the outcome.
+
+Signing in again with the same Google or Apple account, if you were never banned, simply gives
+you a **new, empty account** — the identifier is reused, but nothing from your old account
+comes back with it.
+
+Two further consequences worth stating plainly:
 
 - Anywhere your name used to appear to other users, it now reads **"Deleted user"**.
 - Your username is released, so somebody else may later choose it.

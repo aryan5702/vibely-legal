@@ -59,7 +59,9 @@ Anything on your account that is not required for someone else's records or by l
 ## What we cannot delete while your account is open
 
 - **Your email address.** It identifies the account. Deleting it means closing the account —
-  use [Delete Your Account]({{ '/account-deletion/' | relative_url }}), which overwrites it.
+  use [Delete Your Account]({{ '/account-deletion/' | relative_url }}), which overwrites it on your profile. One
+  copy is kept afterwards by our sign-in system, solely to enforce bans; that page explains
+  exactly what is kept and why.
 - **Messages you sent in other people's group chats.** Removing one side of a conversation
   leaves the rest unreadable for everyone still in it. Close your account and they stay, but
   are attributed to "Deleted user" rather than to you.
