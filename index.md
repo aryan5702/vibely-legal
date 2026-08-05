@@ -15,6 +15,7 @@ that govern it.
 | [Terms of Service]({{ '/terms-of-service/' | relative_url }}) | The agreement you accept by using Vibely, including our content and safety rules |
 | [Delete Your Account]({{ '/account-deletion/' | relative_url }}) | How to delete your account and data, in the app or by email |
 | [Support]({{ '/support/' | relative_url }}) | Contact, reporting, safety guidance, and common questions |
+| [Child Safety Standards]({{ '/child-safety/' | relative_url }}) | Our zero-tolerance standard against child sexual abuse and exploitation, and how to report it |
 
 **Effective 30 July 2026.**
 

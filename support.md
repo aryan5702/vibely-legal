@@ -25,6 +25,11 @@ See the [Terms of Service]({{ '/terms-of-service/' | relative_url }}) §4.
 
 If you believe someone is in immediate danger, contact your local emergency services first.
 
+**Child safety.** Reports involving a minor, or child sexual abuse or exploitation, are
+prioritised above every other category. See our
+[Child Safety Standards]({{ '/child-safety/' | relative_url }}) for what is prohibited, how we act, and who we
+report to.
+
 ## Safety when meeting people
 
 Vibely helps you find events; it does not organise, vet, or supervise them, and we do not
